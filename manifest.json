@@ -1,0 +1,127 @@
+{
+  "minecraft": "1.20.1",
+  "forge": "47.4.28",
+  "generated": 1793537802,
+  "mods": [
+    {
+      "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
+      "sha256": "274c68a6b6cf9bd5fd97af8358ce2d58fed2a49685f20079d744e8b74800277b",
+      "size": 6254897,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/Immersive%20Vehicles-1.20.1-24.0.0.jar"
+    },
+    {
+      "name": "MCasino-1.1.jar",
+      "sha256": "6dbd2d5d987098809e40086c382620f5fdd85dce58b633b089777eaeb5c8a71f",
+      "size": 1542618,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/MCasino-1.1.jar"
+    },
+    {
+      "name": "MGamemode-2.1.jar",
+      "sha256": "28746d12e4a90cd4476807de17b99ec6aef46997140860f4297f9398aa25f342",
+      "size": 536260,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/MGamemode-2.1.jar"
+    },
+    {
+      "name": "MTR-London-Underground-Addon-forge-2.2.4+1.20.1.jar",
+      "sha256": "f92cc76d95f4070ae193fd01d18999f721fb9ecc44d986733883695dab8dfe66",
+      "size": 63836024,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/MTR-London-Underground-Addon-forge-2.2.4%2B1.20.1.jar"
+    },
+    {
+      "name": "MTR-forge-4.0.5+1.20.1.jar",
+      "sha256": "97466eb715ab02f50a7f7e23f920bf9fdd9d5e4bbb12620c06c6751324c66e9a",
+      "size": 84608102,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/MTR-forge-4.0.5%2B1.20.1.jar"
+    },
+    {
+      "name": "MTS Official Pack-1.20.1-V29.jar",
+      "sha256": "a6ca5d37a89fd398cafd96fc8f87673cec5b0247c1651bc0b9f02b23f86c7908",
+      "size": 70997298,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/MTS%20Official%20Pack-1.20.1-V29.jar"
+    },
+    {
+      "name": "architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "size": 580602,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/architectury-9.2.14-forge.jar"
+    },
+    {
+      "name": "fantoms-industrial-furniture-forge-1.20.1-1.0.2-rc1.jar",
+      "sha256": "de23c9bd2336f2a6181003065e1b4a1f2e9e336e0d63c146dee889e0f2dbedb3",
+      "size": 21820127,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/fantoms-industrial-furniture-forge-1.20.1-1.0.2-rc1.jar"
+    },
+    {
+      "name": "furnitureexpanded-forge-1.2+1.20.1.jar",
+      "sha256": "02cf8d58f330f338d442971b04ac3cd80c284793f6c79a4e446dbede156c40ba",
+      "size": 508877,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/furnitureexpanded-forge-1.2%2B1.20.1.jar"
+    },
+    {
+      "name": "homestyle-1.4.0+1.20.1-forge.jar",
+      "sha256": "d15f2d1880793afdc4d45650ba97cd5c484c3afa871b3ee224d09046b3b7b852",
+      "size": 939903,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/homestyle-1.4.0%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "size": 7442998,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/kotlinforforge-4.12.0-all.jar"
+    },
+    {
+      "name": "mapartments-1.7.jar",
+      "sha256": "27d12ae65bdc2b2c62df093ec102e93670b60b19bf2c19f96e3b32767757d6a3",
+      "size": 98920,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/mapartments-1.7.jar"
+    },
+    {
+      "name": "mmarket-1.1.jar",
+      "sha256": "73e034fcf5b989e59a2cce6e63ab51f0019977ac39f7382d24381924edd256fe",
+      "size": 56583,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/mmarket-1.1.jar"
+    },
+    {
+      "name": "mvoicechat-1.2.jar",
+      "sha256": "8fd1c879481fd228502bf5df95fd30b4d9f8a53b1ed17b250fd0a849add83e48",
+      "size": 552372,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/mvoicechat-1.2.jar"
+    },
+    {
+      "name": "mythoscars-1.0.0.jar",
+      "sha256": "14bfd018af5cabd033630424dc13e79709603a9bf494fcc608c6a319edfabea7",
+      "size": 132916,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/mythoscars-1.0.0.jar"
+    },
+    {
+      "name": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha256": "2cbb89f44333d2eb4e825d86d789ff119b272ff75184390b55bafd4f0e7f10c2",
+      "size": 57472579,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/tacz-1.20.1-1.1.8-hotfix2.jar"
+    },
+    {
+      "name": "tacz-tweaks-2.14.2-all.jar",
+      "sha256": "e0a9aeea1b764910fa4201391089759e338002c89a19a98b296f1c9f27fd836f",
+      "size": 1930028,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/tacz-tweaks-2.14.2-all.jar"
+    },
+    {
+      "name": "tacz_x_guns_lights_addon-2.9.0.jar",
+      "sha256": "5a098fbc68518b2faf030ef95864366ee04afe710237de16587cf7561703842e",
+      "size": 136716,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/tacz_x_guns_lights_addon-2.9.0.jar"
+    },
+    {
+      "name": "taczammoquery-1.20.1-1.0.0.jar",
+      "sha256": "4fbc312eeaa6cd4d5dc38628f1fe9e0548308cc1795370639dba43351f5c5e09",
+      "size": 14460,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/taczammoquery-1.20.1-1.0.0.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "size": 1105891,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+    }
+  ]
+}
