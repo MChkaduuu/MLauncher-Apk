@@ -1,7 +1,7 @@
 {
   "minecraft": "1.20.1",
   "forge": "47.4.28",
-  "generated": 1793537802,
+  "generated": 1793555612,
   "mods": [
     {
       "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
@@ -122,6 +122,14 @@
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891,
       "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "MLauncher-LowRes.zip",
+      "sha256": "4128753c40f1d038951f7e23682b4e5bf890be9ecdcde40fd3a7cc5043510258",
+      "size": 1363986,
+      "url": "https://raw.githubusercontent.com/MChkaduuu/MLauncher-Apk/main/resourcepacks/MLauncher-LowRes.zip"
     }
   ]
 }
